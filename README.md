@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     Hi there, I'm Fazal! 👋 <br>
-    🔥 24 Year's Old Software Developer, looking to setp up and pursue a professional career in <strong>Software Engineering</strong><br>
+    🔥 24 Year's Old Software Developer, looking to setp up and pursue a <br>professional career in <strong>Software Engineering</strong><br>
     :email:	aghafazal5@gmail.com <br>
     :art: Portfolio: Coming soon <br>
     :briefcase: LinkedIn: https://linkedin.com/in/fazal-ur-rehman-6b0a58119 <br>
