@@ -1,25 +1,14 @@
-<p align="center">
-  <samp>
-    Hi there, I'm Fazal! 👋 <br>
-    🔥 24 Year's Old Software Developer, looking to step up and pursue<br>a professional career in <strong>Software Engineering</strong><br>
-    :email:	aghafazal5@gmail.com <br>
-    :art: Portfolio: https://iamfazal.github.io/ <br>
-    :briefcase: LinkedIn: https://linkedin.com/in/fazal-ur-rehman-6b0a58119 <br>
-  </samp>
-</p>
+### Hi, I'm Fazal 👋  
+**Senior Software Engineer** | **MERN Stack Developer** | **Cloud & DevOps Enthusiast**
 
+An enthusiastic software engineer who believes in **continuous learning** by tackling challenging problems, exploring new technologies, and collaborating with expert developers. I'm determined to apply my skills to the fullest, building robust, scalable solutions that make a real impact.
 
-<!--
-**fazalAgha5/fazalAgha5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in full-stack web development using **Node.js**, **React**, and **TypeScript**. I enjoy optimizing backend systems and designing cloud infrastructure using **AWS** and **GCP**.
 
-Here are some ideas to get you started:
+🚚 Currently building logistics tech @ **Trukkr**  
+🛠️ Passionate about automation, real-time systems & clean code  
+🎯 Always striving to improve, both in code and as a teammate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📫 [Email](mailto:aghafazal5@gmail.com) • [Portfolio](https://iamfazal.github.io) • [LinkedIn](https://www.linkedin.com/in/iam-fazal)
